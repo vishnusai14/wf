@@ -1,0 +1,33 @@
+body{
+  background-color: #092532;
+  position: relative;
+
+}
+.movieimg{
+  margin-top : 10px;
+  width :100%;
+}
+.logo{
+  width : 20%;
+  margin-left: 40%;
+
+}
+.textintro{
+  font-family: 'Bangers', cursive;
+  text-align: center;
+  color: #f9d56e;
+  line-height: 1.5;
+  margin-bottom: 10%;
+}
+.navimage{
+
+  width : 20%;
+}
+#btn1{
+  position: absolute;
+  left: 30%;
+}
+#btn2{
+  position: absolute;
+  left: 60%;
+}
